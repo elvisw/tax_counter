@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>4d867b15-52df-48dc-bfe4-672857976d59</TargetProject>
+    <FriendlyName>tax_counter</FriendlyName>
+  </ProjectTarget>
+  <Reports />
+  <UseVTune>false</UseVTune>
+</ProfilingTarget>
