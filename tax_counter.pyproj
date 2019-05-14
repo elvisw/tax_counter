@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{4d867b15-52df-48dc-bfe4-672857976d59}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>individual_income_cn_2019.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -24,6 +24,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="individual_income_cn_2019.py" />
+    <Compile Include="main.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tax.py" />
   </ItemGroup>
   <ItemGroup>

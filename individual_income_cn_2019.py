@@ -123,7 +123,7 @@ def min_tax(
     min_monthly_salary = None
     min_bonus = None
 
-    # 求tax的最小值，和tan为最小值时对应的monthly_salary和bonus
+    # 求tax的最小值，和tax为最小值时对应的monthly_salary和bonus
     for (monthly_salary, bonus) in count_points:
         if monthly_salary < 0 or bonus < 0:
             continue
